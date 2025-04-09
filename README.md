@@ -1,1 +1,2 @@
 # Powerbi-
+In this Power BI project, I first cleaned and prepared the employee attrition dataset by removing inconsistencies and formatting the data for analysis. After data cleaning, I analyzed attrition by comparing different factors such as age, gender, department, job role, and salary. Finally, I built an interactive dashboard to visualize key insights, making it easier to understand patterns and factors contributing to employee turnover.
